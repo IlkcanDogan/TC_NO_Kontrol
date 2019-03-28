@@ -1,0 +1,10 @@
+C:\Users\MKA\Desktop\Programlar\TCKontrol\TCKontrol\bin\Debug\TCKontrol.exe.config
+C:\Users\MKA\Desktop\Programlar\TCKontrol\TCKontrol\bin\Debug\TCKontrol.exe
+C:\Users\MKA\Desktop\Programlar\TCKontrol\TCKontrol\bin\Debug\TCKontrol.pdb
+C:\Users\MKA\Desktop\Programlar\TCKontrol\TCKontrol\obj\Debug\TCKontrol.Form1.resources
+C:\Users\MKA\Desktop\Programlar\TCKontrol\TCKontrol\obj\Debug\TCKontrol.Properties.Resources.resources
+C:\Users\MKA\Desktop\Programlar\TCKontrol\TCKontrol\obj\Debug\TCKontrol.csproj.GenerateResource.cache
+C:\Users\MKA\Desktop\Programlar\TCKontrol\TCKontrol\obj\Debug\TCKontrol.csproj.CoreCompileInputs.cache
+C:\Users\MKA\Desktop\Programlar\TCKontrol\TCKontrol\obj\Debug\TCKontrol.exe
+C:\Users\MKA\Desktop\Programlar\TCKontrol\TCKontrol\obj\Debug\TCKontrol.pdb
+C:\Users\MKA\Desktop\Programlar\TCKontrol\TCKontrol\obj\Debug\TCKontrol.csprojAssemblyReference.cache
